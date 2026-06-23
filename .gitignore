@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# Generated audio output
+output/
+
+# Piper models (large binary files)
+models/
+
+# Piper executable
+piper/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
